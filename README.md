@@ -6,21 +6,26 @@ This is simple python GUI which is built using TKinter framework. The applicatio
 
 ![alt text](https://github.com/Princedeep/Python_Crud/blob/master/Project_Images/Main%20Window.png)
 
+
 2. CSV Reader
 
 ![alt text](https://github.com/Princedeep/Python_Crud/blob/master/Project_Images/CSV_Reader.png)
+
 
 3. File opener
 
 ![alt text](https://github.com/Princedeep/Python_Crud/blob/master/Project_Images/File%20Opener.png)
 
+
 4. CRUD Window
 
 ![alt text](https://github.com/Princedeep/Python_Crud/blob/master/Project_Images/CRUD_Window.png)
 
+
 5. Database Connection Alert
 
 ![alt text](https://github.com/Princedeep/Python_Crud/blob/master/Project_Images/Database_connection_alert.png)
+
 
 6. Record_Viewer
 
